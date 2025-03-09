@@ -11,12 +11,12 @@ git clone https://github.com/AnnAl1na/MovieCards.git
 cd MovieCards/frontend
 ```
 
-2️⃣ Install dependencies
+2️⃣ **Install dependencies**
 ```sh
 npm install
 ```
 
-3️⃣ Run the project
+3️⃣ **Run the project**
 ```sh
 npm run dev
 ```
