@@ -5,10 +5,10 @@ A simple and fast **movie search website** where users can **search for movies, 
 ## 📦 Installation & Setup  
 
 1️⃣ **Clone the repository**  
-```bash
+```sh
 git clone https://github.com/AnnAl1na/MovieCards.git
 cd MovieCards/frontend
-```bash
+```sh
 
 
 2️⃣ Install dependencies
